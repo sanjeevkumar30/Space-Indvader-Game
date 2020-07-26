@@ -1,0 +1,7 @@
+It contains one spaceship and 6 enemies and a bullet that hits the enemy.
+Used three python libraries:
+1. pygame(for game interface.)
+2. random (it is used so that enemies can regenerate from random position.)
+3. math (it is used to calculate the distance of collision and between enemy. By applying distance formula.)
+
+When a bullet hits the enemy you score a point. And when the coordinates of enemy and spaceship equals then the game ends.
